@@ -3,7 +3,7 @@ import { Editor } from '@/features/editor/components/editor';
 
 const EditorProjectIdPage = () => {
     return (
-        <div>
+        <div className='h-full'>
             <Editor />
         </div>
     );
